@@ -1,3 +1,5 @@
 Archivo de prueba para el curso de git
 
 Cambio después de primer commit
+
+Nuevo cambio después de hacer git reset --hard e iniciar proyecto html y css
