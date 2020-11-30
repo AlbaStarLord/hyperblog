@@ -6,4 +6,6 @@ Nuevo cambio después de hacer git reset --hard e iniciar proyecto html y css
 
 Master 1
 
+Master 2
+
 Otro cambio
